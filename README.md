@@ -14,3 +14,5 @@ Time for additional content. Commit another, just to test EDIT.MSG
 Now this happens while branched into "sidequest".
 Wonder what it will work out.
 I edit line 7, as well.
+
+New line, hell yeah!
